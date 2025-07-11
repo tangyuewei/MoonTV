@@ -76,6 +76,26 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "danai": {
+      "api": "https://apidanaizi.com/api.php/provide/vod",
+      "name": "大乃"
+    },
+    "yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔"
+    },
+    "jinma": {
+      "api": "https://api.jmzy.com/api.php/provide/vod",
+      "name": "金马"
+    },
+    "xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "杏吧"
+    },
+    "kuaibo": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播"
     }
   }
 }
