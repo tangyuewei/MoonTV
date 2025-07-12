@@ -100,6 +100,22 @@
     "maotai": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台"
+    },
+    "baiduzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
+    },
+    "soav": {
+      "api": "https://api.souavzy.vip/api.php/provide/vod",
+      "name": "soAv"
+    },
+    "fanqie": {
+      "api": "https://fqzy.me//api.php/provide/vod",
+      "name": "番茄"
+    },
+    "yellow": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "yellow"
     }
   }
 }
