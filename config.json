@@ -96,6 +96,10 @@
     "kuaibo": {
       "api": "https://gayapi.com/api.php/provide/vod",
       "name": "快播"
+    },
+    "maotai": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台"
     }
   }
 }
