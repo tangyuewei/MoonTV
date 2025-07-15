@@ -15,6 +15,18 @@
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "qilin": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源"
+    },
+    "niuniu": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
+    },
+     "mtzy": {
+      "api": "https://mtzy.me/api.php/provide/vod",
+      "name": "mt资源"
+    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
@@ -44,6 +56,18 @@
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
+    },
+    "dbzy2": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "豆瓣2资源"
+    },
+    "uku": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "uku资源"
+    },
+    "huya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "huya资源"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
@@ -108,6 +132,22 @@
     "yellow": {
       "api": "https://hsckzy.vip/api.php/provide/vod",
       "name": "yellow"
+    },
+    "lsb": {
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "name": "lsb"
+    },
+    "semao": {
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "name": "semao"
+    },
+    "xxibaozyw": {
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+      "name": "xxibaozyw"
+    },
+    "hsckzy": {
+      "api": "https://hsckzy888.com/api.php/provide/vod ",
+      "name": "hsckzy"
     }
   }
 }
