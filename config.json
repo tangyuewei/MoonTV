@@ -12,20 +12,8 @@
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
-    },
-    "qilin": {
-      "api": "https://www.qilinzyz.com/api.php/provide/vod",
-      "name": "麒麟资源"
-    },
-    "niuniu": {
-      "api": "https://api.niuniuzy.me/api.php/provide/vod",
-      "name": "牛牛资源"
-    },
-     "mtzy": {
-      "api": "https://mtzy.me/api.php/provide/vod",
-      "name": "mt资源"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -44,6 +32,10 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "茅台资源"
+    },
     "wolong": {
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源"
@@ -56,18 +48,6 @@
     "dbzy": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
-    },
-    "dbzy2": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "豆瓣2资源"
-    },
-    "uku": {
-      "api": "https://api.ukuapi88.com/api.php/provide/vod",
-      "name": "uku资源"
-    },
-    "huya": {
-      "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "huya资源"
     },
     "mozhua": {
       "api": "https://mozhuazy.com/api.php/provide/vod",
@@ -92,6 +72,18 @@
     "wwzy": {
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源"
+    },
+    "lzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源站"
+    },
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
     }
   }
 }
