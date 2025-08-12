@@ -93,61 +93,61 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
-    },
-    "danai": {
-      "api": "https://apidanaizi.com/api.php/provide/vod",
-      "name": "大乃"
-    },
-    "yutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
-      "name": "玉兔"
-    },
-    "jinma": {
-      "api": "https://api.jmzy.com/api.php/provide/vod",
-      "name": "金马"
-    },
-    "xingba": {
-      "api": "https://xingba111.com/api.php/provide/vod",
-      "name": "杏吧"
-    },
-    "maotai": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台"
-    },
-    "baiduzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度资源"
-    },
-    "soav": {
-      "api": "https://api.souavzy.vip/api.php/provide/vod",
-      "name": "soAv"
-    },
-    "fanqie": {
-      "api": "https://fqzy.me//api.php/provide/vod",
-      "name": "番茄"
-    },
-    "yellow": {
-      "api": "https://hsckzy.vip/api.php/provide/vod",
-      "name": "yellow"
-    },
-    "lsb": {
-      "api": "https://apilsbzy1.com/api.php/provide/vod",
-      "name": "lsb"
-    },
-    "semao": {
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "name": "semao"
-    },
-    "xxibaozyw": {
-      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
-      "name": "xxibaozyw"
-    },
-    "hsckzy": {
-      "api": "https://hsckzy888.com/api.php/provide/vod",
-      "name": "hsckzy"
-    }
+//    "ikun": {
+//      "api": "https://ikunzyapi.com/api.php/provide/vod",
+//      "name": "iKun资源"
+//    },
+//    "danai": {
+//      "api": "https://apidanaizi.com/api.php/provide/vod",
+//      "name": "大乃"
+//    },
+//    "yutu": {
+//      "api": "https://apiyutu.com/api.php/provide/vod",
+//      "name": "玉兔"
+//    },
+//    "jinma": {
+//      "api": "https://api.jmzy.com/api.php/provide/vod",
+//      "name": "金马"
+//    },
+//    "xingba": {
+//      "api": "https://xingba111.com/api.php/provide/vod",
+//      "name": "杏吧"
+//    },
+//    "maotai": {
+//      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+//      "name": "茅台"
+//    },
+//    "baiduzy": {
+//      "api": "https://api.apibdzy.com/api.php/provide/vod",
+//      "name": "百度资源"
+//    },
+//    "soav": {
+//      "api": "https://api.souavzy.vip/api.php/provide/vod",
+//      "name": "soAv"
+//    },
+//    "fanqie": {
+//      "api": "https://fqzy.me//api.php/provide/vod",
+//      "name": "番茄"
+//    },
+//    "yellow": {
+//      "api": "https://hsckzy.vip/api.php/provide/vod",
+//      "name": "yellow"
+//    },
+//    "lsb": {
+//      "api": "https://apilsbzy1.com/api.php/provide/vod",
+//      "name": "lsb"
+//    },
+//    "semao": {
+//      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+//      "name": "semao"
+//    },
+//    "xxibaozyw": {
+//      "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+//      "name": "xxibaozyw"
+//    },
+//    "hsckzy": {
+//      "api": "https://hsckzy888.com/api.php/provide/vod",
+//      "name": "hsckzy"
+//    }
   }
 }
